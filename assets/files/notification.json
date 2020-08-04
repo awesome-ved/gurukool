@@ -1,0 +1,46 @@
+[
+    {
+        "index":0,
+        "ntitlex": "Ved is Awesome",
+        "ntextx": "You were good",
+        "nimagex":"assets/img/good.png"
+    },
+    {
+        "index":1,
+        "ntitlex": "Ved is Awesome",
+        "ntextx": "You Achieved a out of grade in quizz",
+        "nimagex":"assets/img/success.png"
+
+    },
+    {
+        "index":3,
+        "ntitlex": "Ved is Awesome",
+        "ntextx": "Your Awesomeness has reached to a new level, you have unlocked realization state. Welcome and Enjoy"
+    },
+    {
+        "index":4,
+        "ntitlex": "Ved is Awesome",
+        "ntextx": "Your Awesomeness has reached to a new level, you have unlocked realization state. Welcome and Enjoy"
+    },
+    {
+        "index":5,
+        "ntitlex": "Ved is Awesome",
+        "ntextx": "Your Awesomeness has reached to a new level, you have unlocked realization state. Welcome and Enjoy"
+    },
+    {
+        "index":6,
+        "ntitlex": "Ved is Awesome",
+        "ntextx": "Your Awesomeness has reached to a new level, you have unlocked realization state. Welcome and Enjoy"
+    },
+    {
+        "index":7,
+        "ntitlex": "Ved is Awesome",
+        "ntextx": "Your Awesomeness has reached to a new level, you have unlocked realization state. Welcome and Enjoy"
+    },
+    {
+        "index":8,
+        "ntitlex": "Ved is Awesome",
+        "ntextx": "Your Awesomeness has reached to a new level, you have unlocked realization state. Welcome and Enjoy"
+    }
+    
+]
